@@ -16,6 +16,9 @@ To see the real-time bus tracking visualization in action, check out the followi
 
 Click on the image to watch the video or [click here](https://www.youtube.com/watch?v=BjVXcSRAMr8) to open it in a new tab.
 
+#### The code was running for well over 6 hours for getting all the html files
+![image](https://github.com/atharv-patil/real-time-bus-tracking/assets/83455141/24919dbe-e788-4776-8b94-fdfa738f48ef)
+
 
 ### Technologies Used
 
